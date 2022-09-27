@@ -1,22 +1,26 @@
 # Mylocation3
 Virtual-Internship---Android-Application-Development-Using-Kotlin
-Grocery Application Using Kotlin
+Business Location Application Using Kotlin
 
-Project Name -
-Grocery App
+# Project Name -
+Business Location Project 1
 
 # Description -
-As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
-This app is a simple grocery list app that allows you to add, edit, and delete items from your list.
-Features
-Add Items to Cart
-Delete Items to Cart
-Edit Items to Cart
-Price Chart
-Display the list in a recycle viwe
-Screenshot -
-Downloads
-Grocery Apk
-Project Zip
-Author -
+An Android Application To Search Nearby Business using Kotlin
+Aplication work with the using Cloud Console & API
+A mobile app is bulit where the user can seach for his nearby 
+locations based on his requirement 
+whenever the user gives input of business type like a hotel,
+petrol pumps,hospitals,etc.using Place API and as respones 
+we obtain the coordinates that are marked on the Google map
+
+# Features
+Business Listing
+My Map
+
+# Screenshot -
+* Downloads
+* Business Location Apk
+* Project Zip
+* Author -
 Javed Tadavi
