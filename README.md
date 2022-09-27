@@ -1,5 +1,4 @@
-# Mylocation3
-@smaetinternz02/Virtual-Internship---Android-Application-Development-Using-Kotlin
+# @smaetinternz02/Virtual-Internship---Android-Application-Development-Using-Kotlin
 Business Location Application Using Kotlin
 
 # Project Name -
