@@ -1,5 +1,5 @@
 # Mylocation3
-Virtual-Internship---Android-Application-Development-Using-Kotlin
+@smaetinternz02/Virtual-Internship---Android-Application-Development-Using-Kotlin
 Business Location Application Using Kotlin
 
 # Project Name -
@@ -19,8 +19,8 @@ Business Listing
 My Map
 
 # Screenshot -
-* Downloads
+# Downloads
 * Business Location Apk
 * Project Zip
-* Author -
+# Author -
 Javed Tadavi
